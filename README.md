@@ -1,6 +1,6 @@
 # OpenGL-Game-Template
 * A 3D game template by David A.K.A. LegatAbysswalker
-OpenGL Game Template for 3D Graphics using OpenGL, SFML, GLEW, and C++
+* OpenGL Game Template for 3D Graphics using OpenGL, SFML, GLEW, and C++
 
 # Dependancies
 * **OpenGL 4+** and latest version of **GLEW**. 
